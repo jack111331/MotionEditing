@@ -1,0 +1,9 @@
+/snap/clion/138/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/edge/Code/ThreeD_Game/Project_1
+-- Found OGRE
+--   static     : OFF
+--   components : Bites;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+--   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GLES2;RenderSystem_GL3Plus;Codec_STBI;Codec_EXR
+--   media      : /usr/local/share/OGRE/Media
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug

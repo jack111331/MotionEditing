@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OgreTutorialsSample"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\usr\local\lib\OGRE\;CMake Files\..\..\..\..\..\usr\local\lib\OGRE\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0_Bootstrap">
+				<Option output="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/0_Bootstrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/edge/Code/ThreeD_Game/Project_1/include"/>
+					<Add directory="/usr/local/include/OGRE/Bites"/>
+					<Add directory="/usr/local/include/OGRE"/>
+					<Add directory="/usr/local/include/OGRE/Overlay"/>
+					<Add directory="/usr/local/include/OGRE/RTShaderSystem"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 0_Bootstrap"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0_Bootstrap/fast">
+				<Option output="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/0_Bootstrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/edge/Code/ThreeD_Game/Project_1/include"/>
+					<Add directory="/usr/local/include/OGRE/Bites"/>
+					<Add directory="/usr/local/include/OGRE"/>
+					<Add directory="/usr/local/include/OGRE/Overlay"/>
+					<Add directory="/usr/local/include/OGRE/RTShaderSystem"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 0_Bootstrap/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_FirstScene">
+				<Option output="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/1_FirstScene" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/edge/Code/ThreeD_Game/Project_1/include"/>
+					<Add directory="/usr/local/include/OGRE/Bites"/>
+					<Add directory="/usr/local/include/OGRE"/>
+					<Add directory="/usr/local/include/OGRE/Overlay"/>
+					<Add directory="/usr/local/include/OGRE/RTShaderSystem"/>
+					<Add directory="/usr/local/include/OGRE/MeshLodGenerator"/>
+					<Add directory="/usr/local/include/OGRE/Paging"/>
+					<Add directory="/usr/local/include/OGRE/Property"/>
+					<Add directory="/usr/local/include/OGRE/Terrain"/>
+					<Add directory="/usr/local/include/OGRE/Volume"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_FirstScene"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_FirstScene/fast">
+				<Option output="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/1_FirstScene" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/edge/Code/ThreeD_Game/Project_1/include"/>
+					<Add directory="/usr/local/include/OGRE/Bites"/>
+					<Add directory="/usr/local/include/OGRE"/>
+					<Add directory="/usr/local/include/OGRE/Overlay"/>
+					<Add directory="/usr/local/include/OGRE/RTShaderSystem"/>
+					<Add directory="/usr/local/include/OGRE/MeshLodGenerator"/>
+					<Add directory="/usr/local/include/OGRE/Paging"/>
+					<Add directory="/usr/local/include/OGRE/Property"/>
+					<Add directory="/usr/local/include/OGRE/Terrain"/>
+					<Add directory="/usr/local/include/OGRE/Volume"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_FirstScene/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_CamerasAndShadows">
+				<Option output="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/2_CamerasAndShadows" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/edge/Code/ThreeD_Game/Project_1/include"/>
+					<Add directory="/usr/local/include/OGRE/Bites"/>
+					<Add directory="/usr/local/include/OGRE"/>
+					<Add directory="/usr/local/include/OGRE/Overlay"/>
+					<Add directory="/usr/local/include/OGRE/RTShaderSystem"/>
+					<Add directory="/usr/local/include/OGRE/MeshLodGenerator"/>
+					<Add directory="/usr/local/include/OGRE/Paging"/>
+					<Add directory="/usr/local/include/OGRE/Property"/>
+					<Add directory="/usr/local/include/OGRE/Terrain"/>
+					<Add directory="/usr/local/include/OGRE/Volume"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_CamerasAndShadows"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_CamerasAndShadows/fast">
+				<Option output="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/2_CamerasAndShadows" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/edge/Code/ThreeD_Game/Project_1/include"/>
+					<Add directory="/usr/local/include/OGRE/Bites"/>
+					<Add directory="/usr/local/include/OGRE"/>
+					<Add directory="/usr/local/include/OGRE/Overlay"/>
+					<Add directory="/usr/local/include/OGRE/RTShaderSystem"/>
+					<Add directory="/usr/local/include/OGRE/MeshLodGenerator"/>
+					<Add directory="/usr/local/include/OGRE/Paging"/>
+					<Add directory="/usr/local/include/OGRE/Property"/>
+					<Add directory="/usr/local/include/OGRE/Terrain"/>
+					<Add directory="/usr/local/include/OGRE/Volume"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_CamerasAndShadows/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/edge/Code/ThreeD_Game/Project_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/BasicTutorial1.cpp">
+			<Option target="1_FirstScene"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/BasicTutorial2.cpp">
+			<Option target="2_CamerasAndShadows"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/Bootstrap.cpp">
+			<Option target="0_Bootstrap"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/include/BVHParser.h">
+			<Option target="0_Bootstrap"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/include/SinBadCharacterController.h">
+			<Option target="0_Bootstrap"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/src/BVHParser.cpp">
+			<Option target="0_Bootstrap"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/../../../../../usr/local/lib/OGRE/cmake/OGREConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\OGRE\cmake\"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/../../../../../usr/local/lib/OGRE/cmake/OGREConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\OGRE\cmake\"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/../../../../../usr/local/lib/OGRE/cmake/OgreTargets-relwithdebinfo.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\OGRE\cmake\"/>
+		</Unit>
+		<Unit filename="/home/edge/Code/ThreeD_Game/Project_1/../../../../../usr/local/lib/OGRE/cmake/OgreTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\lib\OGRE\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

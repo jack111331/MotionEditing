@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/0_Bootstrap.dir/Bootstrap.cpp.o CMakeFiles/0_Bootstrap.dir/src/BVHParser.cpp.o  -o 0_Bootstrap  -Wl,-rpath,/usr/local/lib /usr/local/lib/libOgreBites.so.1.12.11 /usr/local/lib/libOgreRTShaderSystem.so.1.12.11 /usr/local/lib/libOgreOverlay.so.1.12.11 /usr/local/lib/libOgreMain.so.1.12.11 -lpthread 
